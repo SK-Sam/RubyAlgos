@@ -38,5 +38,5 @@ def merge(left_arr, right_arr)
 
 end
 
-
+require 'pry'; binding.pry
 p merge_sort([2, 1, 3, 8, 0, 9, 54])
